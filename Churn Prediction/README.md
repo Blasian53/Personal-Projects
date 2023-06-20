@@ -8,5 +8,5 @@ It contains information about customers, such as their demographics, services su
 
 # Project Structure
 * churn_prediction.py: The main Python script that contains the code for data analysis, preprocessing, model training, and evaluation.  
-* WA_Fn-UseC_-Telco-Customer-Churn.csv: The dataset used for the project.  
 * README.md: The readme file that provides information about the project.
+* WA_Fn-UseC_-Telco-Customer-Churn.csv: The dataset used for the project.  
